@@ -1,0 +1,70 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What are the characteristics of an instrumentation amplifier",
+      "answers": {
+        "a": "High input resistance",
+        "b": "Low noise",
+        "c": "High CMRR",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What instrument is used to amplify output signal of transducer",
+      "answers": {
+        "a": "What instrument is used to amplify output signal of transducer",
+        "b": "Instrumentation amplifier",
+        "c": ". Differential amplifier",
+        "d": "Bridge amplifier"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },{
+      "question": "3. What is the primary purpose of an instrumentation amplifier?",
+      "answers": {
+        "a": "to amplify low level differential signals",
+        "b": "to provide high power output",
+        "c": "to act as a voltage regulator",
+        "d": "to operate as a comparator"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },{
+      "question": "4.The common-mode rejection ratio (CMRR) of an instrumentation amplifier should ideally be:",
+      "answers": {
+        "a": "high",
+        "b": "low",
+        "c": "zero",
+        "d": "infinite"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }  ]
+  }
